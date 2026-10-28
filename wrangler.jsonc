@@ -3,7 +3,7 @@
   "name": "shajara12",
   "main": "src/worker.js",
   "compatibility_date": "2025-10-01",
-  "assets": { "directory": "./public", "binding": "ASSETS" },
-  "d1_databases": [{ "binding": "DB", "shajara1-db": "BAZA_NOMI", "database_id": "BAZA_ID" }],
+  "assets": { "directory": "./public", "shajara12": "ASSETS" },
+  "d1_databases": [{ "shajara12": "DB", "shajara1-db": "", "f8fa9009-11cc-4afd-97ee-51a985caa1cf": "BAZA_ID" }],
   "observability": { "enabled": true }
 }
