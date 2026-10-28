@@ -5,12 +5,15 @@
   "compatibility_date": "2025-10-01",
   "assets": { "directory": "./public", "shajara12": "ASSETS" },
   {
+  {
   "d1_databases": [
     {
-      "binding": "shajara12",
-      "database_id": "f8fa9009-11cc-4afd-97ee-51a985caa1cf"
+      "binding": "DB",
+      "database_name": "baza01",
+      "database_id": "62872cd8-9524-4fef-b96d-46b9845c8fdb"
     }
-  ],
+  ]
+}
 }
   "observability": { "enabled": true }
 }
