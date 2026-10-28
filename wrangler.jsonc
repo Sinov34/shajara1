@@ -5,6 +5,6 @@
   "compatibility_date": "2025-10-01",
   "assets": { "directory": "./public", "binding": "ASSETS" },
   // Baza birinchi deployda avtomatik yaratiladi (wrangler >= 4.45).
-  "d1_databases": [{ "binding": "DB", "shajara12": "shajara-db", "database_id": "f8fa9009-11cc-4afd-97ee-51a985caa1cf" }],
+   "d1_databases": [{ "binding": "DB", "database_name": "shajara-db" }],
   "observability": { "enabled": true }
 }
